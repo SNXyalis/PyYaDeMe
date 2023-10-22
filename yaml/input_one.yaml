@@ -1,0 +1,10 @@
+en:
+  activity:
+    morning:
+      wakeup: "wake up"
+      work: "go to work"
+    evening:
+      watch: "watch tv"
+      sleep: "sleep"
+  status: 
+    healthy: "healthy"

@@ -1,0 +1,22 @@
+en:
+  activity:
+    morning:
+      wakeup: "wake up"
+      work: "go to work"
+      feed: "feed the dog"
+      pat: "pat the cat"
+    evening:
+      watch: "watch tv"
+      sleep: "sleep"
+    play: "play tennis"
+  holiday:
+    hawaii: "go to hawaii"
+  Christmas:
+    gifts:
+      chocolate: "Hot Chocolate"
+  status: 
+    healthy: "healthy"  
+el:
+  greetings: "Geia!"
+foo:
+  bar: "foo bar"

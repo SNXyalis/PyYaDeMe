@@ -1,0 +1,12 @@
+en:
+  activity:
+    morning:
+      feed: "feed the dog"
+      pat: "pat the cat"
+  holiday:
+    hawaii: "go to hawaii"
+  Christmas:
+    gifts:
+      chocolate: "Hot Chocolate"
+el:
+  greetings: "Geia!"
